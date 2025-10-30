@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AnandChowdhary//calendar-link//EN
+BEGIN:VEVENT
+DTSTART:20251030T170000Z
+DTEND:20251030T200000Z
+DTSTAMP:20251030T105440Z
+SUMMARY:SUCCESSION by Classic Driver and Broad Arrow Auctions
+DESCRIPTION:The future of car collecting: A conversation across generations featuring key cars from the upcoming Broad Arrow Auctions sale in Zurich. Enjoy gourmet food, fine drinks, and the company of fellow car enthusiasts.
+LOCATION:The Dolder Grand, Kurhausstrasse 65, 8032 Zurich, Switzerland
+UID:64383
+END:VEVENT
+END:VCALENDAR
